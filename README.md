@@ -1,4 +1,4 @@
-# employee-summary-generator
+# Employee Summary Generator
 
 ## Description
 
