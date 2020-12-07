@@ -26,7 +26,9 @@ The application itself can be invoked by running the command `node app.js`.
 
 ## Usage
 
+https://drive.google.com/file/d/19NLpPf5Q1uWr84qqE5QaqC4NpAcHxFUL/view
 
+![image](https://user-images.githubusercontent.com/61889668/101307520-b231aa00-3815-11eb-88e5-e06e0d0b7001.png)
 
 When you run `node app.js` the application will prompt you, using the `inquirer` package, in the command line with a series of questions about your employees.
 
